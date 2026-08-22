@@ -1,0 +1,9 @@
+def login(usuario, contrasena):
+    USUARIO_CORRECTO = "admin"
+    CONTRASENA_CORRECTA = 12345
+    if usuario==USUARIO_CORRECTO and contrasena==CONTRASENA_CORRECTA:
+        return True
+    else:
+        return False
+
+
