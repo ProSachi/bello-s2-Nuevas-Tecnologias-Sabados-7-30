@@ -1,0 +1,68 @@
+id_venta,id_cliente,fecha_venta,producto,categoria,cantidad,precio_unitario,total,canal,metodo_pago,nombre_cliente,ciudad,segmento_cliente,correo
+v001,1,2026-04-01,mouse inalambrico,tecnologia,2,65000,130000,online,tarjeta,carlos gomez,medellin,regular,carlos.gomez@email.com
+v002,2,2026-04-01,teclado mecanico,tecnologia,1,180000,180000,tienda,efectivo,ana rodriguez,bogota,vip,ana.rodriguez@email.com
+v003,3,2026-04-02,silla ergonomica,hogar,1,520000,520000,online,transferencia,luis perez,cali,regular,luis.perez@email.com
+v005,5,2026-04-03,cafetera,hogar,1,240000,240000,tienda,efectivo,jorge restrepo,barranquilla,regular,jorge.restrepo@email.com
+v006,6,2026-04-03,memoria usb 64gb,tecnologia,3,45000,135000,online,tarjeta,sofia londono,medellin,vip,sofia.londono@email.com
+v007,7,2026-04-04,cuaderno pack x5,papeleria,2,28000,56000,tienda,efectivo,andres munoz,bucaramanga,regular,andres.munoz@email.com
+v008,8,2026-04-04,lapiceros pack x10,papeleria,1,18000,18000,tienda,efectivo,valentina castro,bogota,vip,valentina.castro@email.com
+v009,9,2026-04-05,audifonos bluetooth,tecnologia,1,220000,220000,online,tarjeta,felipe henao,cali,regular,felipe.henao@email.com
+v010,10,2026-04-05,mochila escolar,accesorios,1,125000,125000,tienda,transferencia,camila jaramillo,medellin,vip,camila.jaramillo@email.com
+v011,11,2026-04-06,impresora multifuncional,tecnologia,1,690000,690000,online,tarjeta,esteban mejia,pereira,regular,esteban.mejia@email.com
+v012,12,2026-04-06,resma carta x5,papeleria,2,34000,68000,tienda,efectivo,lucia morales,cartagena,vip,lucia.morales@email.com
+v013,13,2026-04-07,calculadora cientifica,papeleria,1,95000,95000,online,tarjeta,mateo ospina,manizales,regular,mateo.ospina@email.com
+v014,14,2026-04-07,escritorio,hogar,1,430000,430000,tienda,transferencia,daniela rios,medellin,regular,daniela.rios@email.com
+v015,15,2026-04-08,lampara led,hogar,2,39000,78000,online,efectivo,alejandro zuluaga,bogota,vip,alejandro.zuluaga@email.com
+v016,16,2026-04-08,webcam hd,tecnologia,1,210000,210000,online,tarjeta,manuela giraldo,cali,regular,manuela.giraldo@email.com
+v017,17,2026-04-09,agenda 2026,papeleria,1,32000,32000,tienda,efectivo,santiago betancur,medellin,vip,santiago.betancur@email.com
+v018,18,2026-04-09,disco ssd 1tb,tecnologia,1,450000,450000,online,transferencia,isabella valencia,barranquilla,regular,isabella.valencia@email.com
+v019,19,2026-04-10,router wifi,tecnologia,1,260000,260000,tienda,tarjeta,juan david echeverri,bucaramanga,regular,juan.echeverri@email.com
+v020,20,2026-04-10,botella termica,accesorios,2,45000,90000,online,efectivo,mariana arango,medellin,vip,mariana.arango@email.com
+v021,21,2026-04-11,portatil 14,tecnologia,1,2450000,2450000,online,transferencia,nicolas cardona,bogota,regular,nicolas.cardona@email.com
+v022,22,2026-04-11,base refrigerante,tecnologia,1,85000,85000,tienda,efectivo,sara quintero,cali,vip,sara.quintero@email.com
+v023,23,2026-04-12,grapadora,papeleria,1,22000,22000,tienda,efectivo,david gallego,pereira,regular,david.gallego@email.com
+v024,24,2026-04-12,mouse pad xl,accesorios,2,25000,50000,online,tarjeta,paula andrea arias,medellin,regular,paula.arias@email.com
+v025,25,2026-04-13,celular gama media,tecnologia,1,1350000,1350000,online,tarjeta,sebastian lopera,cartagena,vip,sebastian.lopera@email.com
+v026,26,2026-04-13,cargador rapido,tecnologia,1,70000,70000,tienda,efectivo,gabriela orozco,medellin,regular,gabriela.orozco@email.com
+v027,27,2026-04-14,biblioteca modular,hogar,1,620000,620000,tienda,transferencia,tomas salazar,bogota,regular,tomas.salazar@email.com
+v028,28,2026-04-14,tablet 10,tecnologia,1,980000,980000,online,tarjeta,valeria montoya,cali,vip,valeria.montoya@email.com
+v029,29,2026-04-15,marcadores pack x12,papeleria,1,26000,26000,tienda,efectivo,julian cano,manizales,regular,julian.cano@email.com
+v030,30,2026-04-15,regla metalica,papeleria,3,7000,21000,tienda,efectivo,catalina osorio,medellin,vip,catalina.osorio@email.com
+v031,31,2026-04-16,ups 1200va,tecnologia,1,540000,540000,online,transferencia,samuel restrepo,medellin,regular,samuel.restrepo@email.com
+v032,32,2026-04-16,cable hdmi 2m,tecnologia,2,28000,56000,tienda,tarjeta,salome gomez,bogota,regular,salome.gomez@email.com
+v033,33,2026-04-17,organizador de escritorio,hogar,1,68000,68000,online,efectivo,emiliano perez,cali,vip,emiliano.perez@email.com
+v034,34,2026-04-17,switch 8 puertos,tecnologia,1,160000,160000,tienda,tarjeta,antonella torres,medellin,regular,antonella.torres@email.com
+v035,35,2026-04-18,proyector,tecnologia,1,1250000,1250000,online,transferencia,matias rodriguez,barranquilla,regular,matias.rodriguez@email.com
+v036,36,2026-04-18,memoria ram 16gb,tecnologia,1,290000,290000,online,tarjeta,renata londono,medellin,vip,renata.londono@email.com
+v037,37,2026-04-19,silla oficina,hogar,1,480000,480000,tienda,transferencia,luciano munoz,bucaramanga,regular,luciano.munoz@email.com
+v038,38,2026-04-19,parlante bluetooth,tecnologia,1,175000,175000,online,efectivo,elena castro,bogota,regular,elena.castro@email.com
+v039,39,2026-04-20,cuaderno argollado,papeleria,4,12000,48000,tienda,efectivo,thiago henao,cali,vip,thiago.henao@email.com
+v040,40,2026-04-20,power bank 10000mah,tecnologia,1,110000,110000,online,tarjeta,martina jaramillo,medellin,regular,martina.jaramillo@email.com
+v041,41,2026-04-21,teclado inalambrico,tecnologia,1,145000,145000,tienda,tarjeta,gael mejia,pereira,regular,gael.mejia@email.com
+v042,42,2026-04-21,set de oficina,papeleria,1,89000,89000,online,efectivo,emma morales,cartagena,vip,emma.morales@email.com
+v043,43,2026-04-22,mouse vertical,tecnologia,1,99000,99000,online,tarjeta,liam ospina,manizales,regular,liam.ospina@email.com
+v044,44,2026-04-22,aro de luz,accesorios,1,76000,76000,tienda,efectivo,olivia rios,medellin,regular,olivia.rios@email.com
+v045,45,2026-04-23,esferos gel pack x6,papeleria,2,15000,30000,tienda,efectivo,noah zuluaga,bogota,vip,noah.zuluaga@email.com
+v046,46,2026-04-23,camara web full hd,tecnologia,1,260000,260000,online,transferencia,victoria giraldo,cali,regular,victoria.giraldo@email.com
+v047,47,2026-04-24,ssd externo 512gb,tecnologia,1,320000,320000,online,tarjeta,lucas betancur,medellin,vip,lucas.betancur@email.com
+v048,48,2026-04-24,mesa plegable,hogar,1,210000,210000,tienda,efectivo,chloe valencia,barranquilla,regular,chloe.valencia@email.com
+v049,49,2026-04-25,lapiz optico,tecnologia,1,135000,135000,online,tarjeta,benjamin echeverri,bucaramanga,regular,benjamin.echeverri@email.com
+v050,50,2026-04-25,hub usb-c,tecnologia,1,115000,115000,tienda,tarjeta,zoe arango,medellin,vip,zoe.arango@email.com
+v051,51,2026-04-26,calculadora basica,papeleria,2,28000,56000,tienda,efectivo,dylan cardona,bogota,regular,dylan.cardona@email.com
+v052,52,2026-04-26,monitor 27,tecnologia,1,980000,980000,online,transferencia,mia quintero,cali,vip,mia.quintero@email.com
+v053,53,2026-04-27,tinta impresora,tecnologia,2,65000,130000,tienda,efectivo,leo gallego,pereira,regular,leo.gallego@email.com
+v054,54,2026-04-27,archivador,papeleria,1,74000,74000,tienda,efectivo,hannah arias,medellin,regular,hannah.arias@email.com
+v055,55,2026-04-28,smartwatch,tecnologia,1,560000,560000,online,tarjeta,gabriel lopera,cartagena,vip,gabriel.lopera@email.com
+v056,56,2026-04-28,soporte portatil,accesorios,1,48000,48000,online,efectivo,aitana orozco,medellin,regular,aitana.orozco@email.com
+v057,57,2026-04-29,microfono usb,tecnologia,1,230000,230000,tienda,transferencia,isaac salazar,bogota,regular,isaac.salazar@email.com
+v058,58,2026-04-29,silla gamer,hogar,1,890000,890000,online,tarjeta,luna montoya,cali,vip,luna.montoya@email.com
+v059,59,2026-04-30,cuaderno ejecutivo,papeleria,1,34000,34000,tienda,efectivo,camilo cano,manizales,regular,camilo.cano@email.com
+v060,60,2026-04-30,laptop stand,accesorios,1,95000,95000,online,efectivo,regina osorio,medellin,vip,regina.osorio@email.com
+v061,3,2026-05-01,webcam hd,tecnologia,1,210000,210000,online,tarjeta,luis perez,cali,regular,luis.perez@email.com
+v062,10,2026-05-01,audifonos bluetooth,tecnologia,1,220000,220000,tienda,efectivo,camila jaramillo,medellin,vip,camila.jaramillo@email.com
+v063,21,2026-05-02,mouse inalambrico,tecnologia,1,65000,65000,online,tarjeta,nicolas cardona,bogota,regular,nicolas.cardona@email.com
+v064,35,2026-05-02,cuaderno pack x5,papeleria,1,28000,28000,tienda,efectivo,matias rodriguez,barranquilla,regular,matias.rodriguez@email.com
+v065,47,2026-05-03,cargador rapido,tecnologia,2,70000,140000,online,transferencia,lucas betancur,medellin,vip,lucas.betancur@email.com
+v066,52,2026-05-03,power bank 10000mah,tecnologia,1,110000,110000,tienda,tarjeta,mia quintero,cali,vip,mia.quintero@email.com
+v067,58,2026-05-04,lampara led,hogar,3,39000,117000,online,efectivo,luna montoya,cali,vip,luna.montoya@email.com
+v068,60,2026-05-04,marcadores pack x12,papeleria,2,26000,52000,tienda,efectivo,regina osorio,medellin,vip,regina.osorio@email.com
